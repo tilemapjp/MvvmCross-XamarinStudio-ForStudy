@@ -136,6 +136,10 @@
     <Compile Include="Views\FirstView.cs" />
     <Compile Include="Bootstrap\DownloadCachePluginBootstrap.cs" />
     <Compile Include="Bootstrap\FilePluginBootstrap.cs" />
+    <Compile Include="Views\KittenCell.cs" />
+    <Compile Include="Views\KittenCell.designer.cs">
+      <DependentUpon>KittenCell.cs</DependentUpon>
+    </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
@@ -143,5 +147,8 @@
       <Project>{E2E607CD-5010-47DB-8FEC-4D5D14C0BA03}</Project>
       <Name>KittenView.Core</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <InterfaceDefinition Include="Views\KittenCell.xib" />
   </ItemGroup>
 </Project>

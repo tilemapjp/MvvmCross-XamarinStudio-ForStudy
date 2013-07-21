@@ -1,23 +1,25 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="KittenView.Touch/Bootstrap/DownloadCachePluginBootstrap.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="KittenView.Touch/Views/KittenCell.cs">
     <Files>
       <File FileName="KittenView.Touch/AppDelegate.cs" Line="1" Column="1" />
       <File FileName="KittenView.Touch/FirstView.cs" Line="1" Column="1" />
       <File FileName="KittenView.Touch/Main.cs" Line="1" Column="1" />
       <File FileName="KittenView.Touch/Setup.cs" Line="1" Column="1" />
-      <File FileName="KittenView.Touch/Views/FirstView.cs" Line="28" Column="28" />
-      <File FileName="KittenView.Touch/Bootstrap/DownloadCachePluginBootstrap.cs" Line="6" Column="30" />
+      <File FileName="KittenView.Touch/Views/FirstView.cs" Line="23" Column="30" />
+      <File FileName="KittenView.Touch/Bootstrap/DownloadCachePluginBootstrap.cs" Line="1" Column="1" />
+      <File FileName="KittenView.Touch/Bootstrap/FilePluginBootstrap.cs" Line="11" Column="1" />
+      <File FileName="KittenView.Touch/Views/KittenCell.cs" Line="20" Column="21" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State expanded="True">
-          <Node name="KittenView.Touch" expanded="True">
-            <Node name="References" expanded="True" />
-            <Node name="Bootstrap" expanded="True">
-              <Node name="DownloadCachePluginBootstrap.cs" selected="True" />
+          <Node name="KittenView.Core" expanded="True" />
+          <Node name="KittenView.Touch" expanded="True" selected="True">
+            <Node name="Bootstrap" expanded="True" />
+            <Node name="Views" expanded="True">
+              <Node name="KittenCell.cs" expanded="True" />
             </Node>
-            <Node name="Views" expanded="True" />
           </Node>
         </State>
       </Pad>
