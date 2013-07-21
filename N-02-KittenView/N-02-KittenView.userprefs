@@ -1,19 +1,24 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TipCalc.Touch/Setup.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="KittenView.Touch/Bootstrap/DownloadCachePluginBootstrap.cs">
     <Files>
-      <File FileName="TipCalc.Droid/Setup.cs" Line="1" Column="1" />
-      <File FileName="TipCalc.Droid/Views/FirstView.cs" Line="7" Column="30" />
-      <File FileName="TipCalc.Droid/Resources/values/MvxBindingAttributes.xml" Line="1" Column="1" />
-      <File FileName="TipCalc.Touch/Views/FirstView.cs" Line="43" Column="9" />
-      <File FileName="TipCalc.Touch/AppDelegate.cs" Line="13" Column="21" />
-      <File FileName="TipCalc.Touch/Main.cs" Line="15" Column="16" />
-      <File FileName="TipCalc.Touch/Setup.cs" Line="18" Column="23" />
+      <File FileName="KittenView.Touch/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="KittenView.Touch/FirstView.cs" Line="1" Column="1" />
+      <File FileName="KittenView.Touch/Main.cs" Line="1" Column="1" />
+      <File FileName="KittenView.Touch/Setup.cs" Line="1" Column="1" />
+      <File FileName="KittenView.Touch/Views/FirstView.cs" Line="28" Column="28" />
+      <File FileName="KittenView.Touch/Bootstrap/DownloadCachePluginBootstrap.cs" Line="6" Column="30" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State expanded="True">
-          <Node name="Template.Core" selected="True" />
+          <Node name="KittenView.Touch" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="Bootstrap" expanded="True">
+              <Node name="DownloadCachePluginBootstrap.cs" selected="True" />
+            </Node>
+            <Node name="Views" expanded="True" />
+          </Node>
         </State>
       </Pad>
       <Pad Id="ClassPad">
@@ -42,5 +47,5 @@
     <Watch file="../xamlib/ApexMenu/ApexMenu.Droid/Layout.cs" line="116" offsetX="390" offsetY="1725" expression="layout" liveUpdate="False" />
     <Watch file="../PlatMap/TileMapJP/TileMapJP.ViewDroid/TilesProvider.cs" line="121" offsetX="397" offsetY="1800" expression="e" liveUpdate="False" />
   </MonoDevelop.Ide.DebuggingService.PinnedWatches>
-  <MonoDevelop.Ide.ItemProperties.Template.Droid MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" AndroidDeviceId-Debug="emulator-5554" />
+  <MonoDevelop.Ide.ItemProperties.KittenView.Droid MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" AndroidDeviceId-Debug="SHTBE027976" />
 </Properties>
