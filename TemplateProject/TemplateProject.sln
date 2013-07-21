@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Template.Core", "TipCalc.Core\Template.Core.csproj", "{B0A862A4-AE44-4591-B01D-B2CEA729A97B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Template.Droid", "TipCalc.Droid\Template.Droid.csproj", "{EC335D4E-E016-4B9C-9D6A-82331C1A1161}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Template.Touch", "TipCalc.Touch\Template.Touch.csproj", "{93FCC3C1-CDA3-4A15-B222-F54B3913D04A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93FCC3C1-CDA3-4A15-B222-F54B3913D04A}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{93FCC3C1-CDA3-4A15-B222-F54B3913D04A}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{93FCC3C1-CDA3-4A15-B222-F54B3913D04A}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{93FCC3C1-CDA3-4A15-B222-F54B3913D04A}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{93FCC3C1-CDA3-4A15-B222-F54B3913D04A}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{93FCC3C1-CDA3-4A15-B222-F54B3913D04A}.Debug|iPhone.Build.0 = Debug|iPhone
+		{93FCC3C1-CDA3-4A15-B222-F54B3913D04A}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{93FCC3C1-CDA3-4A15-B222-F54B3913D04A}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{93FCC3C1-CDA3-4A15-B222-F54B3913D04A}.Release|iPhone.ActiveCfg = Release|iPhone
+		{93FCC3C1-CDA3-4A15-B222-F54B3913D04A}.Release|iPhone.Build.0 = Release|iPhone
+		{93FCC3C1-CDA3-4A15-B222-F54B3913D04A}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{93FCC3C1-CDA3-4A15-B222-F54B3913D04A}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{B0A862A4-AE44-4591-B01D-B2CEA729A97B}.Ad-Hoc|iPhone.ActiveCfg = Debug|Any CPU
+		{B0A862A4-AE44-4591-B01D-B2CEA729A97B}.Ad-Hoc|iPhone.Build.0 = Debug|Any CPU
+		{B0A862A4-AE44-4591-B01D-B2CEA729A97B}.AppStore|iPhone.ActiveCfg = Debug|Any CPU
+		{B0A862A4-AE44-4591-B01D-B2CEA729A97B}.AppStore|iPhone.Build.0 = Debug|Any CPU
+		{B0A862A4-AE44-4591-B01D-B2CEA729A97B}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{B0A862A4-AE44-4591-B01D-B2CEA729A97B}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{B0A862A4-AE44-4591-B01D-B2CEA729A97B}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{B0A862A4-AE44-4591-B01D-B2CEA729A97B}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{B0A862A4-AE44-4591-B01D-B2CEA729A97B}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{B0A862A4-AE44-4591-B01D-B2CEA729A97B}.Release|iPhone.Build.0 = Release|Any CPU
+		{B0A862A4-AE44-4591-B01D-B2CEA729A97B}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{B0A862A4-AE44-4591-B01D-B2CEA729A97B}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{EC335D4E-E016-4B9C-9D6A-82331C1A1161}.Ad-Hoc|iPhone.ActiveCfg = Debug|Any CPU
+		{EC335D4E-E016-4B9C-9D6A-82331C1A1161}.Ad-Hoc|iPhone.Build.0 = Debug|Any CPU
+		{EC335D4E-E016-4B9C-9D6A-82331C1A1161}.AppStore|iPhone.ActiveCfg = Debug|Any CPU
+		{EC335D4E-E016-4B9C-9D6A-82331C1A1161}.AppStore|iPhone.Build.0 = Debug|Any CPU
+		{EC335D4E-E016-4B9C-9D6A-82331C1A1161}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{EC335D4E-E016-4B9C-9D6A-82331C1A1161}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{EC335D4E-E016-4B9C-9D6A-82331C1A1161}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{EC335D4E-E016-4B9C-9D6A-82331C1A1161}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{EC335D4E-E016-4B9C-9D6A-82331C1A1161}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{EC335D4E-E016-4B9C-9D6A-82331C1A1161}.Release|iPhone.Build.0 = Release|Any CPU
+		{EC335D4E-E016-4B9C-9D6A-82331C1A1161}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{EC335D4E-E016-4B9C-9D6A-82331C1A1161}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = TipCalc.Core\Template.Core.csproj
+	EndGlobalSection
+EndGlobal

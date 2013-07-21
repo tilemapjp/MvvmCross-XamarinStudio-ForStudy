@@ -1,20 +1,14 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../TemplateProject/TipCalc.Droid/Views/FirstView.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TipCalc.Touch/Views/FirstView.cs">
     <Files>
-      <File FileName="../TemplateProject/TipCalc.Droid/Setup.cs" Line="12" Column="1" />
-      <File FileName="../TemplateProject/TipCalc.Droid/Views/FirstView.cs" Line="7" Column="30" />
+      <File FileName="TipCalc.Touch/Setup.cs" Line="18" Column="34" />
+      <File FileName="TipCalc.Touch/AppDelegate.cs" Line="8" Column="18" />
+      <File FileName="TipCalc.Touch/Views/FirstView.cs" Line="85" Column="40" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State expanded="True">
-          <Node name="TipCalc.Droid" expanded="True">
-            <Node name="Resources" expanded="True">
-              <Node name="layout" expanded="True" />
-            </Node>
-            <Node name="Views" expanded="True" />
-          </Node>
-        </State>
+        <State />
       </Pad>
       <Pad Id="ClassPad">
         <State expanded="True" selected="True" />
@@ -42,5 +36,5 @@
     <Watch file="../xamlib/ApexMenu/ApexMenu.Droid/Layout.cs" line="116" offsetX="390" offsetY="1725" expression="layout" liveUpdate="False" />
     <Watch file="../PlatMap/TileMapJP/TileMapJP.ViewDroid/TilesProvider.cs" line="121" offsetX="397" offsetY="1800" expression="e" liveUpdate="False" />
   </MonoDevelop.Ide.DebuggingService.PinnedWatches>
-  <MonoDevelop.Ide.ItemProperties.TipCalc.Droid MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" AndroidDeviceId-Debug="emulator-5554" />
+  <MonoDevelop.Ide.ItemProperties.TipCalc.Droid MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" AndroidDeviceId-Debug="SHTBE027976" />
 </Properties>
